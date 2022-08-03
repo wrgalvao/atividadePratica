@@ -1,0 +1,80 @@
+@charset "UTF-8";
+/* QUESTÃO 1*/
+h1#titulo
+{
+    color: #3647a1;
+}
+
+h2#subtitulo
+{
+    color: #3647a1;
+}
+
+h3#subsubtitulo
+{
+    color: #3647a1;
+}
+/* QUESTÃO 2*/
+.lista
+{
+    color: #1013d5;
+    background-color: #d5d210;
+}
+/* QUESTÃO 4 */
+#rodape > h2
+{
+    color: red;
+}
+/* QUESTÃO 5 */
+#rodape div
+{
+    border: dashed 7px red;
+}
+/* QUESTÃO 6*/
+h2 ~ h3
+{
+    font-size: 50px;
+}
+/* QUESTÃO 7*/
+.lista
+{
+    background-color: #e3e2a6;
+}
+/* QUESTÃO 8 */
+h1
+{
+    font-family: sans-serif, Tahoma;
+}
+h2
+{
+    font-family: sans-serif, Tahoma;
+}
+h3
+{
+    font-family: sans-serif, Tahoma;
+}
+/* QUESTÃO 10 */
+[name]
+{
+    background-color: #b7e6d5;
+}
+/* QUESTÃO 11 */
+caption
+{
+    background-color: #0b5eb1;
+    color: #fff;
+    padding: 15px;
+    font-size: 20px;
+}
+/* QUESTÃO 12 */
+tr:nth-child(1n)
+{
+    color: purple;
+    background-color: wheat;
+}
+/* QUESTÃO 13 */
+tr:nth-child(2n)
+{
+    color: purple;
+    background-color: wheat;
+}
