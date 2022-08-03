@@ -75,6 +75,6 @@ tr:nth-child(1n)
 /* QUESTÃO 13 */
 tr:nth-child(2n)
 {
-    color: purple;
-    background-color: wheat;
+    color: wheat;
+    background-color: purple;
 }
